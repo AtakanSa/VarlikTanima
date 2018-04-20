@@ -1,8 +1,9 @@
 
-Ahmet Atakan , Cumhuriyet Halk Partisi asd Fatma Demirkollugiller ile 5 lira Türkiye R.T.E. cumhurbaşkanı Recep Tayyip Erdoğan'ın saat 2 de toplantısı var------------0 0 0 0 0 0 0 0 Kısaltma 0 0 0 
-Ankara Türkiye'nin başkentidir------------
-Melek gibi bir kız------------0 
-Ahmet okula giderken 3 adet yumurtasını kırdı------------0 
- Türkiye M.K.A tarafından kurulmuştur ------------0 
- Marketlerde 5 liralık değil, 5 dolarlık alış-veriş yapmanız önerilir------------0 
- İzmir , Ankara arası benzinli araç ile 5 saat sürüyor------------Location Location 
+B-PERSON I-PERSON 0 B-LOCATION 0 0 0         Corina Casanova , İsviçre Federal Şansölyesidir . 
+0 0 B-ORGANIZATIONI-ORGANIZATION I-ORGANIZATION I-ORGANIZATION 0 0 0 0 0 0 0 0 0 0 0         Casanova , İsviçre Federal Yüksek Mahkemesi eski Başkanı , Nay Giusep'in pratiğinde bir avukat olarak çalıştı . 
+B-PERSON I-PERSON 0 0 0 0         Corina Casanova bir federal parlementerdir . 
+0 0 B-ORGANIZATIONI-ORGANIZATION I-ORGANIZATION I-ORGANIZATION 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0         Casanova , Hristiyan Demokrat Halk Partisi üyesi üyedidir ve altı dilde konuşmaktadır : Romanş dili , Almanca , Fransızca , İtalyanca , İngilizce ve İspanyolca . 
+0 0 0 0 0 0 0 0 0 0         İsviçre Dışişleri Bakanlığı , İsviçre federal yönetiminin bir bölümüdür . 
+0 0 0 0 0 0         İsviçre'nin dış ilişkilerini sürdürmekle görevlidir . 
+0 0 0 0 B-LOCATION B-PERSON I-PERSON 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0         Gilgit Baltistan veya ( Pakistan Kuzey Bölgeler ) Urduca : Gilgit Baltistn ) Balti dili ) : Keşmir bölgesinin kuzey kesiminde Pakistan sınırları içinde özerk bir statüye sahip Pakistan'ın Keşmir Bölgesindeki Federal idari yönetim bölgesi . 
+0 0 0 0 0 0 0 0 0 0 0         72496 km alan kaplamakta ve oldukça dağlık bir araziye sahiptir . 
