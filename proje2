@@ -1,9 +1,9 @@
 
-B-PERSON I-PERSON O B-LOCATION O B-MISC O	Corina Casanova , İsviçre Federal Şansölyesidir .
-B-MISC O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION O O O O O O O O O O O	Casanova , İsviçre Federal Yüksek Mahkemesi eski Başkanı , Nay Giusep'in pratiğinde bir avukat olarak çalıştı .
-B-PERSON I-PERSON O O O O	Corina Casanova bir federal parlementerdir .
-B-PERSON O O O O O O O O O O O O O O O B-MISC O B-MISC O B-MISC O O O O O	Casanova , Hristiyan Demokrat Halk Partisi üyesi üyedidir ve altı dilde konuşmaktadır : Romanş dili , Almanca , Fransızca , İtalyanca , İngilizce ve İspanyolca .
-B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION O B-ORGANIZATION O O O O O	İsviçre Dışişleri Bakanlığı , İsviçre federal yönetiminin bir bölümüdür .
-B-MISC O O O O O	İsviçre'nin dış ilişkilerini sürdürmekle görevlidir .
-B-LOCATION I-LOCATION O O B-LOCATION O O O B-MISC O B-LOCATION O O O O O O O O O O B-LOCATION O O O O O O B-LOCATION O O O O O O O	Gilgit Baltistan veya ( Pakistan Kuzey Bölgeler ) Urduca : Gilgit Baltistn ) Balti dili ) : Keşmir bölgesinin kuzey kesiminde Pakistan sınırları içinde özerk bir statüye sahip Pakistan'ın Keşmir Bölgesindeki Federal idari yönetim bölgesi .
-B-MISC O O O O O O O O O O	72496 km alan kaplamakta ve oldukça dağlık bir araziye sahiptir .
+B-PERSON I-PERSON O B-LOCATION O B-MISC O	Corina Casanova , İsviçre Federal Şansölyesidir . 
+B-MISC O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION O O O O O O O O O O O	Casanova , İsviçre Federal Yüksek Mahkemesi eski Başkanı , Nay Giusep'in pratiğinde bir avukat olarak çalıştı . 
+B-PERSON I-PERSON O O O O	Corina Casanova bir federal parlementerdir . 
+B-PERSON O O O O O O O O O O O O O O O B-MISC O B-MISC O B-MISC O O O O O	Casanova , Hristiyan Demokrat Halk Partisi üyesi üyedidir ve altı dilde konuşmaktadır : Romanş dili , Almanca , Fransızca , İtalyanca , İngilizce ve İspanyolca . 
+B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION O B-ORGANIZATION O O O O O	İsviçre Dışişleri Bakanlığı , İsviçre federal yönetiminin bir bölümüdür . 
+B-MISC O O O O O	İsviçre'nin dış ilişkilerini sürdürmekle görevlidir . 
+B-LOCATION I-LOCATION O O B-LOCATION O O O B-MISC O B-LOCATION O O O O O O O O O O B-LOCATION O O O O O O B-LOCATION O O O O O O O	Gilgit Baltistan veya ( Pakistan Kuzey Bölgeler ) Urduca : Gilgit Baltistn ) Balti dili ) : Keşmir bölgesinin kuzey kesiminde Pakistan sınırları içinde özerk bir statüye sahip Pakistan'ın Keşmir Bölgesindeki Federal idari yönetim bölgesi . 
+B-MISC O O O O O O O O O O	72496 km alan kaplamakta ve oldukça dağlık bir araziye sahiptir . 

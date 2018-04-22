@@ -172,7 +172,7 @@ public class Tokenizer {
 			if (cumle[i] != null) {
 				bWriter.write(cumle[i]);
 			} else {
-				bWriter.write("0 ");
+				bWriter.write("O ");
 			}
 		}
 	}
@@ -224,17 +224,21 @@ public class Tokenizer {
 		for(int i =0;i<dosya2.size();i++) {
 			cıktıMetin +=dosya2.get(i);
 		}
-		
+		System.out.println("çıktımetin " + cıktıMetin);
+		System.out.println("orjinalmetin " + orjinalMetin);
 		StringTokenizer st8 = new StringTokenizer(orjinalMetin);
 		StringTokenizer st9 = new StringTokenizer(cıktıMetin);
 		
-		int dogru = 0;
-		int yanlis = 0;
+		
+		float dogru = 0;
+		float yanlis = 0;
 		String token1;
 		String token2;
 		while(st9.hasMoreTokens() && st8.hasMoreTokens()) {
 			token1 = st8.nextToken();
 			token2 = st9.nextToken();
+			System.out.println(token1);
+			System.out.println(token2);
 			if(token1.equals(token2)) {
 				dogru++;
 				System.out.println("Doğru : " + dogru);
@@ -247,9 +251,11 @@ public class Tokenizer {
 			}
 			
 		}
-		int oran = dogru / (dogru + yanlis);
+		float toplam = dogru+yanlis;
+		float oran = dogru/toplam;
 		System.out.println("Eşleşen Kelime Sayısı = "+ dogru +"\n" + "Yanlış Kelime Sayısı = " + yanlis);
-		System.out.println("Doğruluk Oranı Yüzde : " + oran);
+		System.out.println("Doğruluk Oranı Yüzde : %" + oran*100);
+		
 		
 	}
 
@@ -268,7 +274,7 @@ public class Tokenizer {
 	  keywords.add(cumle[i+2]); 
 	  keywords.add(cumle[i+3]); 
 	  if (yazilacakCumle[i] == null) {
-			yazilacakCumle[i] = "B-ORGANIZATION";
+			yazilacakCumle[i] = "B-ORGANIZATION ";
 		}
 		if (yazilacakCumle[i+1] == null) {
 			yazilacakCumle[i + 1] = "I-ORGANIZATION ";
